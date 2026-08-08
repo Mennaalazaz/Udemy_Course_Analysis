@@ -1,4 +1,4 @@
-# 📊 Udemy Finance & Accounting Courses — Business Intelligence Analysis
+#  Udemy Finance & Accounting Courses — Business Intelligence Analysis
 
 A data analytics project examining **13,608 Finance & Accounting courses** on Udemy to uncover what drives course popularity, pricing performance, and learner satisfaction — and to turn those findings into concrete business recommendations.
 
